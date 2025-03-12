@@ -1,2 +1,2 @@
 # Apnacollage-demo
-This ki my First repository
+This is my First repository
